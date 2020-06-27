@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="645975c8-828a-4bd2-bf4e-ec8c1152df3e" name="Default Changelist" comment="" />
+    <list default="true" id="645975c8-828a-4bd2-bf4e-ec8c1152df3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/startup/entity/Appointment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/startup/entity/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -13,6 +24,17 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="LeBeatrix" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="booking" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1dpb9yUTLHrBOsQzkBGd6ZXbmz2" />
   <component name="ProjectViewState">
@@ -22,6 +44,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oca practise" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,14 +59,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593124833631</updated>
+      <workItem from="1593177243297" duration="6871000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="538" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1593130026664">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="538" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1593130026664" />
+    <state x="648" y="320" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1593262537586">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="648" y="320" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.860@0.0.1600.860" timestamp="1593262537586" />
+    <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1593188194835">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1593188194835" />
+    <state x="583" y="298" key="Github.CreatePullRequestDialog" timestamp="1593267666620">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="583" y="298" key="Github.CreatePullRequestDialog/0.0.1600.860@0.0.1600.860" timestamp="1593267666620" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1593130846431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
